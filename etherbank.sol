@@ -1330,3 +1330,5 @@ contract EtherBank is Context, IERC20, IERC20Metadata {
     receive() external payable { }
 
 }
+
+//hail SLNS 
